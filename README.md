@@ -30,10 +30,6 @@ guest mode and the language switch that the server's translations follow.
 Crypto market platform: signals, charts and an automated trading bot connected to Binance, OKX and
 MEXC, with a web app, a mobile app and an admin panel.
 
-**University academic system** · Flutter, Bloc, Hive, Firebase · team project\
-Mobile app of a university's exam and academic management system. My part: teacher journals,
-subject plans with an approval workflow, role-based permissions and filters.
-
 ---
 
 ### Tech
